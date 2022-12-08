@@ -1,0 +1,25 @@
+{
+  "name": "node_http",
+  "version": "1.0.0",
+  "description": "basic node js server",
+  "main": "app.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tysonlind/node_http.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Tyson Lind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tysonlind/node_http/issues"
+  },
+  "homepage": "https://github.com/tysonlind/node_http#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
